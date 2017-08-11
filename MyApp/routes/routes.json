@@ -1,0 +1,15 @@
+{
+    "routes": [{
+        "url": "/",
+        "mapping": "index.html",
+        "method": "get",
+        "controller": "main"
+
+    }, {
+        "url": "/main",
+        "mapping": "main.html",
+        "method": "get",
+        "controller": "main"
+
+    }]
+}

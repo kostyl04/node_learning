@@ -1,0 +1,15 @@
+{
+    "messages": [{
+        "key": "hello",
+        "value": {
+            "ru": "привет",
+            "en": "hello"
+        }
+    }, {
+        "key": "why",
+        "value": {
+            "ru": "почему",
+            "en": "why"
+        }
+    }]
+}
